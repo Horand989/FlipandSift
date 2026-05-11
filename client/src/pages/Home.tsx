@@ -75,7 +75,7 @@ export default function Home() {
           
           <p className="text-xl md:text-2xl text-gray-600 max-w-3xl mx-auto mb-10 leading-relaxed">
             Upload any <strong>SpamZilla screenshot</strong>. Our AI analyzes <strong>15+ SEO metrics</strong>, 
-            ranks the <strong>top 5 opportunities</strong>, and gives you a <strong>due diligence checklist</strong> — 
+            ranks the <strong>top 5 opportunities</strong>, and gives you a <strong>due diligence checklist</strong> - 
             in <span className="text-indigo-600 font-bold">60 seconds</span>.
           </p>
           
@@ -127,7 +127,7 @@ export default function Home() {
             The Problem With Finding Profitable Domains
           </h2>
           <p className="text-xl text-gray-600 text-center mb-12">
-            Every day, you waste hours on manual research — and miss the best deals
+            Every day, you waste hours on manual research - and miss the best deals
           </p>
           
           <div className="grid md:grid-cols-3 gap-8">
@@ -147,7 +147,7 @@ export default function Home() {
                 <Search className="w-12 h-12 text-red-500 mb-4" />
                 <h3 className="font-bold text-xl mb-2 text-gray-900">Hard to Evaluate</h3>
                 <p className="text-gray-600">
-                  Trust Flow, Citation Flow, topical relevance — it's overwhelming. 
+                  Trust Flow, Citation Flow, topical relevance - it's overwhelming. 
                   You miss red flags and buy <strong>bad domains</strong>.
                 </p>
               </CardContent>
@@ -224,7 +224,7 @@ export default function Home() {
                 </h3>
                 <p className="text-gray-600 text-lg">
                   See the <strong>5 best opportunities</strong> with AI-generated explanations. 
-                  Understand WHY each domain is worth buying — or avoiding.
+                  Understand WHY each domain is worth buying - or avoiding.
                 </p>
               </div>
             </div>
@@ -371,7 +371,7 @@ export default function Home() {
                 <p className="text-gray-700 text-lg mb-6 italic">
                   "The Sherlock Check saved me from buying a domain with hidden casino spam. 
                   That one feature alone paid for a year of subscription. The AI analysis is 
-                  scary accurate — it's like having a domain expert on call 24/7."
+                  scary accurate - it's like having a domain expert on call 24/7."
                 </p>
                 <div className="flex items-center gap-4">
                   <div className="w-12 h-12 bg-purple-100 rounded-full flex items-center justify-center text-purple-600 font-bold text-xl">
@@ -522,11 +522,11 @@ export default function Home() {
             />
             <FaqItem 
               q="Do I need a SpamZilla account to use FlipandSift?"
-              a="Yes. FlipandSift analyzes screenshots from SpamZilla (or similar marketplaces like ODYS, SerpNames, etc.). We don't replace SpamZilla — we make it 10x faster to use by doing the analysis for you."
+              a="Yes. FlipandSift analyzes screenshots from SpamZilla (or similar marketplaces like ODYS, SerpNames, etc.). We don't replace SpamZilla - we make it 10x faster to use by doing the analysis for you."
             />
             <FaqItem 
               q="How accurate is the AI analysis?"
-              a="The AI evaluates 15+ metrics including Trust Flow, Citation Flow, topical relevance, backlink quality, and domain age. It's designed to flag domains that look good on paper but have hidden issues. However, always do your own due diligence — no tool can guarantee success."
+              a="The AI evaluates 15+ metrics including Trust Flow, Citation Flow, topical relevance, backlink quality, and domain age. It's designed to flag domains that look good on paper but have hidden issues. However, always do your own due diligence - no tool can guarantee success."
             />
             <FaqItem 
               q="Can I check domains in bulk?"
@@ -534,11 +534,11 @@ export default function Home() {
             />
             <FaqItem 
               q="What is the Sherlock Check™?"
-              a="Sherlock Check cross-references domain names against their historical topics using Archive.org. It spots inconsistencies — like a domain that was about 'casino' but now shows 'health' — which indicates potential spam history or hacked sites."
+              a="Sherlock Check cross-references domain names against their historical topics using Archive.org. It spots inconsistencies - like a domain that was about 'casino' but now shows 'health' - which indicates potential spam history or hacked sites."
             />
             <FaqItem 
               q="Can I cancel my subscription anytime?"
-              a="Yes. You can cancel anytime and keep access until the end of your billing period. We also offer a 30-day money-back guarantee — if FlipandSift doesn't save you time and help you find better domains, we'll refund your payment."
+              a="Yes. You can cancel anytime and keep access until the end of your billing period. We also offer a 30-day money-back guarantee - if FlipandSift doesn't save you time and help you find better domains, we'll refund your payment."
             />
           </div>
         </div>
